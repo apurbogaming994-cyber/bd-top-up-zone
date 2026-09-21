@@ -1,32 +1,3 @@
-# bd-top-up-zone
-Free Fire Diamond Top Up Mini App
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BD Top UP Zone</title>
-
-  <!-- Telegram Mini App -->
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
-
-  <style>
-    * {
-      box-sizing: border-box;
-      font-family: Arial, sans-serif;
-    }
-
-    body {
-      margin: 0;
-      background: #f2f5f9;
-      color: #17202a;
-    }
-
-    .header {
-      background: #1687f5;
-      color: white;
-      padding: 22px 18px;
-      border-radius: 0 0 24px 24px;
     }
 
     .header h1 {
